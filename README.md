@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @MrHyde04
-- 👀 I’m interested in App and WebApp Development
-- 🌱 I’m currently learning AWS
-- 💞️ I’m looking to collaborate on Web Apps
+- 👋 Hi, I’m Satyajeet Dash 
+- 👀 I’m interested in Data Science, Game Development, and others 
+- 🌱 I’m currently learning Application Development
+- 💞️ I’m looking to collaborate on Project related to Deep learning, Game Development and others
 - 📫 How to reach me dashsatyajeet5@gmail.com
 
 <!---
